@@ -1,0 +1,7 @@
+.avatar-pic {
+  width: 150px;
+}
+
+body {
+	background-color: #ccc;
+}
